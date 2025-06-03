@@ -1,0 +1,65 @@
+body {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-variant: small-caps;
+}
+
+main {
+   width: 200px;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+}
+
+div {
+   width: 200px;
+   margin: 10px 0px;
+}
+
+.row {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+span {
+   width: 100px;
+}
+
+button {
+   width: 30px;
+   height: 30px;
+}
+
+#session-label {
+   font-size: 1.5em;
+}
+
+#break-label {
+   font-size: 1.25em;
+}
+
+#timer-label {
+   font-size: 2em;
+}
+
+#time-left {
+   font-size: 3em;
+}
+
+#start_stop {
+   width: 70px;
+   height: 70px;
+   margin-right: 50px;
+}
+
+#reset {
+width: 55px;
+height: 55px;
+}
