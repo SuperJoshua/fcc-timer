@@ -4,7 +4,7 @@
 
 A relatively functional timer. Purely proof-of-concept -- there are better options for your timing needs. They even come with your operating system, whatever operating system that is.
 
-This was a project required for getting the JavaScript Algorithms and Data Structures Certificate from freeCodeCamp. It had to fulfill these "user stories".
+This was a project required for getting the Front End Development Libraries Certificate from freeCodeCamp. It had to fulfill these "user stories".
 
 - I can see an element with id="break-label" that contains a string (e.g. "Break Length").
 - I can see an element with id="session-label" that contains a string (e.g. "Session Length").
